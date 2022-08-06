@@ -47,17 +47,3 @@ mô-đun . hàng xuất khẩu . handleSedule  =  function ( { event , api , mod
 mô-đun . hàng xuất khẩu . run  =  function ( { api , event , args , models , Users , Threads , Currencies , permssion } )  {
 	// Làm gì ở đây thuộc về bạn ¯ \ _ (ツ) _ / ¯
 }
-Chân trang
-© 2022 GitHub, Inc.
-Điều hướng chân trang
-Điều kiện
-Sự riêng tư
-Bảo vệ
-Trạng thái
-Docs
-Liên hệ với GitHub
-Định giá
-API
-Tập huấn
-Blog
-Về
